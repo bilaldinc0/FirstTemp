@@ -4,4 +4,4 @@ python: "3.5"
 
 install: true
 
-script: Main.py out.txt
+script: python Main.py out.txt
